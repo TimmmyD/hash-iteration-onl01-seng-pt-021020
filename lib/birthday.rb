@@ -10,4 +10,5 @@ birthday_kids.each do |kids_name, age|
   end
 end
 
+def age_appro
 
